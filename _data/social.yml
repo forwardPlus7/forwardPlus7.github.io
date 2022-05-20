@@ -1,9 +1,9 @@
 - title: Email
   url: mailto://e01814009@stu.ahu.edu.cn
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com/zhangjiaqi1129
-  icon: fab fa-twitter
-- title: GitHub
-  url: https://forwardplus7.github.io/
-  icon: fab fa-github
+#- title: Twitter
+#  url: https://twitter.com/zhangjiaqi1129
+#  icon: fab fa-twitter
+#- title: GitHub
+#  url: https://forwardplus7.github.io/
+#  icon: fab fa-github
