@@ -21,6 +21,13 @@ Bachelor Degree Anhui University (Project 211), Hefei, Anhui, China 09/2018-Pres
 
 ## RESEARCH
 
+Dual-Interlocked-Storage-Cells and Dual-Level Filtering C-elements based Triple-Node-Upset Tolerant Latch Design (12/2021-05/2022)
+
+- Designed a triple-node-upset tolerant latch based on dual interlocked memory cells and C-cells
+  
+- Simulation results confirmed the three-node-upset tolerance of the proposed latch
+  
+
 A Novel Recommendation Algorithm Based on Multi- objective Evolution (01/2021-12/2021)
 
 - Accepted by the 4th International Conference on Computing and Data Science in Dec 2021
@@ -32,14 +39,18 @@ A Novel Recommendation Algorithm Based on Multi- objective Evolution (01/2021-12
 
 Design of An Electronic Alarm Clock Based on CPLD Chip (03/2021-04/2021)
 
-- Adopted divide-and-conquer algorithm to devise the functions of the electronic alarm clock
+- Adopted divide-and-conquer algorithm
+  to devise the functions of the electronic alarm clock
   
-- Drew circuit diagram using Quartus and realized the circuit through logic gate chips and medium scale integration chips
+- Drew circuit diagram using Quartus
+  and realized the circuit through logic gate chips and medium scale integration
+  chips
   
 
 Big Data Collection and Analysis Based on Developer Community (09/2020-12/2021)
 
-- Designed crawling strategies, acquired data using Scrapy, and built Hadoop distributed file system and Hive data-warehouse
+- Designed crawling strategies, acquired data using Scrapy, and built Hadoop distributed 
+  file system and Hive data-warehouse
   
 - Carried out visualized analyses on the data through deploying Superset
   
@@ -59,4 +70,5 @@ Front-End Developer BOC Financial Technology Co., Ltd, Chengdu, Sichuan, China (
 
 - Participated in the project "Yixintang Intelligent Medical System" as a Front-end Developer
   
-- Designed and built the front-end of web pages in JavaScript, HTML and CSS using the Vue.js framework and independently composed related software documentations
+- Designed and built the front-end of web pages in JavaScript, HTML and CSS using the Vue.js framework and independently composed related
+  software documentations
