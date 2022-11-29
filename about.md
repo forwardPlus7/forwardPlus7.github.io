@@ -5,10 +5,10 @@ title: About me
 ## EDUCATION
 
 ### University of Waterloo
-Master of Engineering (MEng) in Electrical and Computer Engineering    Waterloo, Ontario, Canada 09/2022-Present
+Master of Engineering (MEng) in Electrical and Computer Engineering, Waterloo, Ontario, Canada 09/2022-Present
 
 ### Anhui University (Project 211)
-Bachelor Degree in Computer Science          Hefei, Anhui, China 09/2018-06/2022
+Bachelor Degree in Computer Science, Hefei, Anhui, China 09/2018-06/2022
 
 - Major: Computer Science and Technology, BEng (In Progress)
   
