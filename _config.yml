@@ -5,7 +5,7 @@ url:
 avatar: /jiaqi_icon.jpg
 paginate: 5
 permalink: pretty
-cover_image: /background.jpg
+cover_image: /new_bg.jpg
 
 # Gems
 plugins:
